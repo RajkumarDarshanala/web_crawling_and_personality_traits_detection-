@@ -23,7 +23,7 @@ Libraris and models used include----->>
 3. for creating database(.db) file
   1.sqlite3
   
-  final output is a database file containing [name,image_link,image(BLOP),'Openness', 'Conscientiousness', 'Extroversion', 'Agreeableness', 'Neuroticism']
+  final output is a database file containing [name,image_link,image(BLOP),'Openness', \'Conscientiousness', 'Extroversion', 'Agreeableness', 'Neuroticism']
 
 
 Note :
